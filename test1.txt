@@ -1,0 +1,16 @@
+#define MAX 50
+#define MAX 40
+#define Max 30
+//this is a comment
+void main()
+{
+	int x;
+	//more comments
+	x = MAX;
+
+#define MIN 10
+
+	int y;
+	++i;
+	x = y - MIN; 
+}
